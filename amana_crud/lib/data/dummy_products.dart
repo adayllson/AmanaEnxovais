@@ -1,3 +1,5 @@
+// ignore_for_file: constant_identifier_names, unnecessary_const
+
 import 'package:amana_crud/Models/product.dart';
 
 const DUMMY_PRODUCT = {

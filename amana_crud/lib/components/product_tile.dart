@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_null_comparison, use_key_in_widget_constructors, prefer_const_constructors
+
 import 'package:flutter/material.dart';
 import 'package:amana_crud/Models/product.dart';
 

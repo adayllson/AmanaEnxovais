@@ -1,3 +1,5 @@
+// ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
+
 import 'package:amana_crud/data/dummy_products.dart';
 import 'package:flutter/material.dart';
 
